@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/words
+Content-Type: application/json
+
+{
+    "jyrilassi": "paikallls",
+    "suomi": "paikallinen (ihminen tai olut",
+    "esimerkki": "do you have 5% paikals, are you paikals"
+}
